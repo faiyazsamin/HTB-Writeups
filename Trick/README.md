@@ -167,7 +167,7 @@ Let's try to log in via SSH:
 `ssh michael@10.10.11.166 -i key.pem`
 
 As we are in, the user flag is in user.txt file
-User Flag: `c5baa4266e32e2ae5b21d804be5bd738`
+User Flag: `c5baa4266e32e2ae5b21d804********`
 
 Now let's try to find the priviledges by running `sudo -l`
 
@@ -207,4 +207,4 @@ Now we have root!
 
 We found the root flag in /root/root.txt
 
-Root Flag: `b03a2e8b76cf2b89c0b173ee5fd5bb72`
+Root Flag: `b03a2e8b76cf2b89c0b173ee********`
