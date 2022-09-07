@@ -1,4 +1,4 @@
-Let's scab the ports:
+Let's scan the ports....
 
 `sudo rustscan -a 10.10.11.152 --scripts none --ulimit 5000`
 

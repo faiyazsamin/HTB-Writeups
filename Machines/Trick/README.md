@@ -1,3 +1,5 @@
+Let's scan the ports....
+
 `sudo nmap -sC -sS 10.10.11.166 -oA trick`
 
 `sudo rustscan -a 10.10.11.166 --scripts none --ulimit 5000`
